@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793971778112",
+    "project_id": "batchit-a20fc",
+    "storage_bucket": "batchit-a20fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793971778112:android:75d3043c67d020482ff5a5",
+        "android_client_info": {
+          "package_name": "com.example.batchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793971778112-kn3n3ti347gv8fnn2hbc8u40agt7d6am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batchit",
+            "certificate_hash": "839621de829bdd95fa5e9dd8b4f7cce513367757"
+          }
+        },
+        {
+          "client_id": "793971778112-7dp7p2rv2qe007c7cd4jgerii50bimgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9d-ANxuF78VES6HtUSMt7XF829-VmkkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793971778112-7dp7p2rv2qe007c7cd4jgerii50bimgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
